@@ -1,5 +1,5 @@
-RevConnect – Console-Based Social Media Application
-📌 Project Overview
+# RevConnect – Console-Based Social Media Application
+- Project Overview
 
 RevConnect is a console-based social media application developed using Java, JDBC, and MySQL. It provides a platform for personal users, business accounts, and content creators to connect, share posts, interact with content, and build networks.
 
